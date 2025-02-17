@@ -29,10 +29,10 @@ Potential Uses
 - Creative applications exploring AI and poetic expression
 
 License
-[Specify License here, e.g., MIT License]
+MIT
 
-Credits and Acknowledgements
-[Optional: If applicable, acknowledge individuals or organizations involved in creating the dataset.]
 
 Contact
-[Your Name/GitHub Profile Link] [Your Email Address (Optional)]
+Sajjad Rasool
+https://github.com/Reysajju/urdu-dataset
+sajjjad.rasool@gmail.com
